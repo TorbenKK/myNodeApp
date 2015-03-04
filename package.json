@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TorbenKK/myNodeApp/issues"
   },
-  "homepage": "https://github.com/TorbenKK/myNodeApp"
+  "homepage": "https://github.com/TorbenKK/myNodeApp",
+  "devDependencies": {
+    "express": "^4.12.2"
+  }
 }
